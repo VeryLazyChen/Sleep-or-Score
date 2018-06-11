@@ -1,4 +1,2 @@
-# Sleep-or-Score
-The homework of making a role-playing game. class of Sun Hui, 
+# Sleep Or Score
 
-This is Group 9.

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/png">
+        <file alias="blackhouse">material/buildingblack.png</file>
+        <file alias="bus">material/bus.png</file>
+        <file alias="road">material/highway.png</file>
+        <file alias="hospital">material/hospital.png</file>
+        <file alias="office">material/office.png</file>
+        <file alias="tree">material/tree.png</file>
+    </qresource>
+</RCC>
