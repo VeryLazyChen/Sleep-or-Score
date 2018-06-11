@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/txt">
+        <file alias="bornplace">macconstruction/bornplace.txt</file>
+    </qresource>
+</RCC>
